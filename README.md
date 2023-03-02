@@ -1,7 +1,7 @@
+![github](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  	![github](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![github](https://img.shields.io/badge/Apple-2020%20M1%20Macbook%20Air-999999?style=for-the-badge&logo=apple&logoColor=white) ![github](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+) ![github](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
-If you stumbled upon this on Pastebin, this is my discord bio since it was too long. bradleytechman#5062
+bradleytechman#5062
 📲Expert in sideloading, jailbreaking, and AltStore.📲
  
 🌟Tech Achievements I'm Proud Of:🌟
@@ -18,13 +18,23 @@ If you stumbled upon this on Pastebin, this is my discord bio since it was too l
 -Moderator for r/AltStore
  
 🤌Socials🤌 
-Youtube: Gaming With Bradley And Adam
-Epic Games: GamingWithBrad
            ↓main↓        ↓never use it↓
+           
+           
 Reddit: u/Motor-Ad9914, u/GamingwBradAndAdamYT
-Spotify: bradleyisepic
-Twitch: getstickbuggedioi
-Xbox: Doge1351
+
 Youtube: Gaming With Bradley And Adam
+
 Epic Games: GamingWithBrad
+
+Spotify: bradleyisepic
+
+Twitch: getstickbuggedioi
+
+Xbox: Doge1351
+
+Youtube: Gaming With Bradley And Adam
+
+Epic Games: GamingWithBrad
+
 also please don't call me brad, or any of my socials except bradleytechman.
