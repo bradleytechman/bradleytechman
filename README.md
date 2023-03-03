@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bradleytechman" alt="bradleytechman" /></a> </p>
 
-- 🔭 I’m currently working on [palera1n shortcut](https://github.com/bradleytechman/palera1n-shortcut)
+- 🔭 I’m currently working on a [palera1n shortcut](https://github.com/bradleytechman/palera1n-shortcut)
 
 - 🌱 I’m currently learning **Swift**
 
