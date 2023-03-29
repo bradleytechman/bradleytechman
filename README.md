@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bradleytechman#5062**
 
-- ⚡ Fun fact **I have an ipad 2**
+- ⚡ Fun fact **I have 2 younger brothers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
