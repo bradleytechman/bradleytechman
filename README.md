@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://dev.to/bradleytechman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bradleytechman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15114602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15114602" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gaming with bradley and adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming with bradley and adam" height="30" width="40" /></a>
 <a href="https://discord.gg/vwPeURPe5C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vwPeURPe5C" height="30" width="40" /></a>
 </p>
 
