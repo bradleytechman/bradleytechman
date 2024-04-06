@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytechman&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytechman" /> </p>
 
-- 🔭 I’m currently working on a [palera1n shortcut](https://github.com/bradleytechman/palera1n-shortcut)
+- 🔭 I’m currently working on nothing atm
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Objective-C**
 
 - 👯 I’m looking to collaborate on [SideStore](https://github.com/SideStore/SideStore)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AltStore, Sideloading, Jailbreaking**
 
-- 📫 How to reach me **bradleytechman#5062**
+- 📫 How to reach me **bradleytechman on Twitter or Discord**
 
 - ⚡ Fun fact **I have 2 younger brothers**
 
