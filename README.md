@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bradley</h1>
-<h3 align="center">Expert in sideloading, jailbreaking and moderator of r/AltStore, r/GBA4iOS, and r/Sideloaded</h3>
+<h3 align="center">Expert in sideloading, jailbreaking and moderator of r/AltStore, r/GBA4iOS, r/Sideloaded and r/TrollStore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytechman&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytechman" /> </p>
 
