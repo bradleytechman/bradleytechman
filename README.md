@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on nothing atm
 
-- 🌱 I’m currently learning **Objective-C**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on [SideStore](https://github.com/SideStore/SideStore)
 
