@@ -1,5 +1,5 @@
 <h1 align="center">what's up⁉️, i'm bradley</h1>
-<h3 align="center">subreddit moderator, shortcut developer, and expert on iOS sideloading and jailbreaking</h3>
+<h3 align="center">enthuiast on iOS sideloading and jailbreaking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytechman&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytechman" /> </p>
 
