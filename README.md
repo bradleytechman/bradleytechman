@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **C++ to help me learn objective-c**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on [SideStore](https://github.com/SideStore/SideStore)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bradleytechman?tab=repositories](https://github.com/bradleytechman?tab=repositories)
 
-- 📫 How to reach me **bradleytechman on all platforms**
+- 📫 How to reach me **bradleytechman on almost all platforms**
 
 - ⚡ Fun fact **my dog is named biscuit**
 
