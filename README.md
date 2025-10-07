@@ -1,4 +1,4 @@
-<h1 align="center">what's up⁉️, i'm bradley</h1>
+<h1 align="center">hello, i'm bradley</h1>
 <h3 align="center">enthuiast on iOS sideloading and jailbreaking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleytechman&label=Profile%20views&color=0e75b6&style=flat" alt="bradleytechman" /> </p>
@@ -30,3 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bradleytechman&show_icons=true&locale=en" alt="bradleytechman" /></p>
 
+--ignore--
+
+chrome-extension://lpkffpnklfdjompeeodhpaeenfdpibmj/join-pin-group.html
+https://is.gd/31PNx6
