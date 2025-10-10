@@ -33,3 +33,4 @@
 --ignore--
 
 https://google.com
+https://mail.google.com/mail/logout?hl=en
