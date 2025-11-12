@@ -27,4 +27,4 @@
 
 --ignore--
 
-https://neverssl.com/online
+http://neverssl.com/online
