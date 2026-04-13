@@ -11,11 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bradleytechman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bradleytechman" height="30" width="40" /></a>
 <a href="https://twitter.com/bradleytechman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bradleytechman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15114602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15114602" height="30" width="40" /></a>
-<a href="https://instagram.com/bradleytechman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bradleytechman" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/bradley2.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/2319px-Bluesky_Logo.svg.png" alt="https://bsky.app/profile/bradley2.bsky.social" height="30" width="40" /></a>
 <a href="https://reddit.com/u/motor-ad9914" target="blank"><img align="center" src="https://www.svgrepo.com/show/475675/reddit-color.svg" alt="https://reddit.com/u/motor-ad9914" height="30" width="40" /></a>
 <a href="https://discord.com/users/728610526891868201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/728610526891868201" height="30" width="40" /></a>
 </p>
